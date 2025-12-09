@@ -1,1 +1,1 @@
-# meongstay-co
+# template-center-slider
