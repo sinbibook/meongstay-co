@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.7.0",
-    "generatedAt": "2025-12-15T06:30:59.783Z",
+    "version": "1.8.0",
+    "generatedAt": "2025-12-15T06:52:53.631Z",
     "templateType": "center_slider",
     "propertyId": "61458928-adbc-40db-810d-cba2b2f2a0d2",
     "homepageId": "3ec77366-dbe7-48e7-9f2f-cbd957734336"
@@ -2180,7 +2180,7 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/3ec77366-dbe7-48e7-9f2f-cbd957734336/directions_hero/1765420457141-zz1g78me1z.png",
                     "sortOrder": 0,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": false
                   },
                   {
                     "id": "874d2bb8-fded-43a9-9683-6b41d47cc882",
@@ -2192,14 +2192,14 @@
                   {
                     "id": "f44eb098-6116-4d65-9356-721718c91e71",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/3ec77366-dbe7-48e7-9f2f-cbd957734336/directions_hero/1765258866928-zw9l3wtx8vt.jpg",
-                    "sortOrder": 1,
+                    "sortOrder": 2,
                     "description": "",
-                    "isSelected": false
+                    "isSelected": true
                   },
                   {
                     "id": "f451aa5f-002c-4806-91bf-29e0ad12fceb",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/3ec77366-dbe7-48e7-9f2f-cbd957734336/directions_hero/1765269260155-ft0fdoex2x4.jpg",
-                    "sortOrder": 2,
+                    "sortOrder": 3,
                     "description": "",
                     "isSelected": true
                   }
@@ -2238,7 +2238,16 @@
               "about": [
                 {
                   "title": "멍스테이 배치도",
-                  "images": [],
+                  "images": [
+                    {
+                      "id": "6bfeaa31-1a2b-4107-b9bd-e24975bd4503",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/3ec77366-dbe7-48e7-9f2f-cbd957734336/main_about/1765781489453-39ap78jnurw.jpg",
+                      "sortOrder": 0,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "3825223d-ffb9-48ef-b3ad-be0cfc23ce0e"
+                    }
+                  ],
                   "blockId": "3825223d-ffb9-48ef-b3ad-be0cfc23ce0e",
                   "description": ""
                 }
