@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.8.0",
-    "generatedAt": "2025-12-15T06:52:53.631Z",
+    "version": "1.9.0",
+    "generatedAt": "2025-12-16T23:57:10.112Z",
     "templateType": "center_slider",
     "propertyId": "61458928-adbc-40db-810d-cba2b2f2a0d2",
     "homepageId": "3ec77366-dbe7-48e7-9f2f-cbd957734336"
@@ -402,7 +402,7 @@
     "nameEn": "Gapyeong Meongstay Pension",
     "domain": "meongstay.co.kr",
     "realtimeBookingId": "9899",
-    "ybsId": ""
+    "ybsId": "78917"
   },
   "rooms": [
     {
