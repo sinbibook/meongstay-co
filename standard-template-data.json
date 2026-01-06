@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.11.0",
-    "generatedAt": "2026-01-05T03:18:19.065Z",
+    "version": "1.12.0",
+    "generatedAt": "2026-01-06T00:58:07.056Z",
     "templateType": "center_slider",
     "propertyId": "61458928-adbc-40db-810d-cba2b2f2a0d2",
     "homepageId": "3ec77366-dbe7-48e7-9f2f-cbd957734336"
@@ -411,7 +411,7 @@
       "description": "원룸형 : 거실(침대1)+주방+화장실1+스파+테라스(개별바베큐)",
       "roomInfo": "욕실용품,남녀공용,TV,금연,냉장고,에어컨,전기밥솥,취사시설/도구,2인실,개별바비큐,드라이기,린스,바디워시,샴푸,스파/월풀,식탁,와이파이,타월,애견식기류",
       "group": null,
-      "size": 16,
+      "size": 52,
       "baseOccupancy": 2,
       "maxOccupancy": 2,
       "totalRoomCount": {
@@ -585,7 +585,7 @@
       "description": "원룸형 : 거실(침대1)+주방+화장실1+스파+테라스(개별바베큐)",
       "roomInfo": "욕실용품,남녀공용,TV,금연,냉장고,에어컨,전기밥솥,취사시설/도구,2인실,개별바비큐,드라이기,린스,바디워시,샴푸,스파/월풀,식탁,와이파이,타월,애견식기류",
       "group": null,
-      "size": 16,
+      "size": 52,
       "baseOccupancy": 2,
       "maxOccupancy": 2,
       "totalRoomCount": {
@@ -773,7 +773,7 @@
       "description": "원룸형 : 거실(침대1)+주방+화장실1+스파+테라스(개별바베큐)",
       "roomInfo": "욕실용품,남녀공용,TV,금연,냉장고,에어컨,전기밥솥,취사시설/도구,2인실,개별바비큐,드라이기,린스,바디워시,샴푸,스파/월풀,식탁,와이파이,타월,애견식기류",
       "group": null,
-      "size": 16,
+      "size": 52,
       "baseOccupancy": 2,
       "maxOccupancy": 2,
       "totalRoomCount": {
@@ -933,7 +933,7 @@
       "description": "원룸형 : 거실(침대1)+주방+화장실1+스파+테라스(개별바베큐)",
       "roomInfo": "",
       "group": null,
-      "size": 16,
+      "size": 52,
       "baseOccupancy": 2,
       "maxOccupancy": 2,
       "totalRoomCount": {
@@ -1098,7 +1098,7 @@
       "description": "원룸형 : 거실(침대1)+주방+화장실1+스파+테라스(개별바베큐)",
       "roomInfo": "욕실용품,남녀공용,TV,금연,냉장고,에어컨,전기밥솥,취사시설/도구,2인실,개별바비큐,드라이기,린스,바디워시,샴푸,스파/월풀,식탁,와이파이,타월,애견식기류",
       "group": null,
-      "size": 16,
+      "size": 52,
       "baseOccupancy": 2,
       "maxOccupancy": 2,
       "totalRoomCount": {
@@ -1272,7 +1272,7 @@
       "description": "원룸형 : 거실(침대1)+주방+화장실1+스파+테라스(개별바베큐)",
       "roomInfo": "욕실용품,남녀공용,TV,금연,냉장고,에어컨,전기밥솥,취사시설/도구,2인실,개별바비큐,드라이기,린스,바디워시,샴푸,스파/월풀,식탁,와이파이,타월,애견식기류",
       "group": null,
-      "size": 16,
+      "size": 52,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
@@ -1446,7 +1446,7 @@
       "description": "복층형 : \n- 1층 : 거실+침대룸2+주방+화장실1(외부)\n- 2층 : 거실",
       "roomInfo": "욕실용품,남녀공용,TV,금연,냉장고,에어컨,전기밥솥,취사시설/도구,개별바비큐,드라이기,린스,바디워시,샴푸,식탁,와이파이,타월,애견식기류",
       "group": null,
-      "size": 30,
+      "size": 99,
       "baseOccupancy": 4,
       "maxOccupancy": 8,
       "totalRoomCount": {
@@ -1706,7 +1706,7 @@
       "description": "복층형 : \n- 1층 : 거실+주방+화장실1+테라스(개별바베큐가능)\n- 2층 : 침대룸2+화장실1+테라스(개별바베큐가능)",
       "roomInfo": "욕실용품,남녀공용,TV,금연,냉장고,에어컨,전기밥솥,취사시설/도구,단체,개별바비큐,린스,드라이기,바디워시,샴푸,식탁,전자레인지,침대방,테라스,타월,애견식기류",
       "group": null,
-      "size": 50,
+      "size": 165,
       "baseOccupancy": 4,
       "maxOccupancy": 10,
       "totalRoomCount": {
@@ -2308,6 +2308,9 @@
             }
           ]
         }
+      },
+      "popup": {
+        "popups": []
       }
     }
   }
