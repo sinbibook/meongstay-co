@@ -4,17 +4,17 @@
 
 /* Font Faces */
 @font-face {
-  font-family: 'Cafe24Gowoonbam';
-  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_twelve@1.1/Cafe24Oneprettynight.woff') format('woff');
+  font-family: 'ImHyeMin';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2106@1.1/IM_Hyemin-Regular.woff2') format('woff2');
   font-weight: 400;
   font-display: swap;
 }
 
 /* CSS Variables */
 :root {
-  --font-ko-main: 'Cafe24Gowoonbam', sans-serif;
+  --font-ko-main: 'ImHyeMin', sans-serif;
   --font-ko-sub: 'Pretendard', sans-serif;
   --font-en-main: 'Cormorant', sans-serif;
-  --color-primary: #F5F5F5;
-  --color-secondary: #453D37;
+  --color-primary: #f8f8f8;
+  --color-secondary: #1a1a1a;
 }

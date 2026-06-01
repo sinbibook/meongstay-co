@@ -1,14 +1,15 @@
 {
   "metadata": {
-    "version": "1.19.0",
-    "generatedAt": "2026-05-18T05:18:49.220673245Z",
-    "templateType": "center_slider",
+    "version": "1.20.0",
+    "generatedAt": "2026-06-01T08:48:03.206907784Z",
+    "templateType": "full_banner_slider_flat",
     "propertyId": "61458928-adbc-40db-810d-cba2b2f2a0d2",
     "homepageId": "3ec77366-dbe7-48e7-9f2f-cbd957734336"
   },
   "property": {
     "id": "61458928-adbc-40db-810d-cba2b2f2a0d2",
     "name": "가평 멍스테이펜션",
+    "nameEn": "Gapyeong Meongstay Pension",
     "description": "",
     "subtitle": "반려견 동반이 가능한 자연 친화적 펜션입니다.",
     "address": "경기 가평군 북면 가화로 1462-39",
@@ -23,6 +24,9 @@
     "reservationGuide": "미성년자는 보호자 없이 예약 및 입실 불가하며, 위반 시 환불 없이 퇴실됩니다.\n객실 요금은 기준 인원 기준이며, 초과 시 추가 요금이 발생합니다.\n최대 인원 초과 시 입실 불가하며, 이로 인한 환불은 불가입니다. (유아, 어린이 포함)\n현장 추가 요금은 숙소 측에 사전 확인 바랍니다.\n수영장 등 부대시설은 날씨나 상황에 따라 이용이 제한될 수 있으니 사전 확인 바랍니다.\n당일 예약 후 취소 시 환불 불가하며, 늦은 시간 당일 예약 후 즉시 방문 시 입실 불가할 수 있으니 숙소 확인 후 예약해 주세요.\n취소 수수료는 구매처마다 다를 수 있습니다.\n시스템 오류로 인해 정상가와 다른 금액으로 예약이 진행된 경우, 부득이하게 예약이 취소될 수 있습니다.\n전 객실 금연이며, 흡연은 지정된 장소에서만 가능합니다.",
     "province": "경기도",
     "city": "가평군",
+    "domain": "meongstay.co.kr",
+    "realtimeBookingId": "https://map.naver.com/p/entry/place/1761608784",
+    "ybsId": "78917",
     "amenities": [ ],
     "nearbyAttractions": [
       "산"
@@ -463,11 +467,7 @@
         "surrounding": [ ],
         "commonArea": [ ]
       }
-    ],
-    "nameEn": "Gapyeong Meongstay Pension",
-    "domain": "meongstay.co.kr",
-    "realtimeBookingId": "https://map.naver.com/p/entry/place/1761608784",
-    "ybsId": "78917"
+    ]
   },
   "rooms": [
     {
@@ -2330,11 +2330,21 @@
     }
   ],
   "homepage": {
+    "id": "3ec77366-dbe7-48e7-9f2f-cbd957734336",
     "domain": "meongstay.co.kr",
-    "templateType": "center_slider",
+    "templateType": "full_banner_slider_flat",
     "images": [
       {
-        "logo": [ ]
+        "logo": [
+          {
+            "id": "a6b777aa-2155-455c-8496-0eed15e42eca",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/3ec77366-dbe7-48e7-9f2f-cbd957734336/logo/1780303612317-3x2tvea70u.png",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
       }
     ],
     "seo": {
@@ -2413,25 +2423,9 @@
                     "blockId": null
                   },
                   {
-                    "id": "3d68a45c-135f-4bed-949f-115bf347a6d2",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/3ec77366-dbe7-48e7-9f2f-cbd957734336/index_hero/1765268360090-h786nl090ep.jpeg",
-                    "sortOrder": 7,
-                    "description": "",
-                    "isSelected": true,
-                    "blockId": null
-                  },
-                  {
-                    "id": "f8edf79c-5e05-4017-a73a-e40d3c894043",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/3ec77366-dbe7-48e7-9f2f-cbd957734336/index_hero/1765268360090-zz7b6ogdwxr.jpeg",
-                    "sortOrder": 8,
-                    "description": "",
-                    "isSelected": true,
-                    "blockId": null
-                  },
-                  {
                     "id": "05a5bc38-989a-4dc5-aae2-04e8c4a390d7",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/3ec77366-dbe7-48e7-9f2f-cbd957734336/index_hero/1765268360090-omn2009cprb.jpeg",
-                    "sortOrder": 9,
+                    "sortOrder": 7,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
@@ -2439,7 +2433,7 @@
                   {
                     "id": "0cf5256f-3cae-457b-b936-7d80b429c6f9",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/3ec77366-dbe7-48e7-9f2f-cbd957734336/index_hero/1765267888341-jkqkmikcsn.jpg",
-                    "sortOrder": 10,
+                    "sortOrder": 8,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
@@ -2447,7 +2441,7 @@
                   {
                     "id": "ade0a7ea-d9c9-4177-bb5d-681a5e37d1a5",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/3ec77366-dbe7-48e7-9f2f-cbd957734336/index_hero/1765267888341-owhxcdm7yx9.jpg",
-                    "sortOrder": 11,
+                    "sortOrder": 9,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
@@ -2455,7 +2449,7 @@
                   {
                     "id": "3987245b-1630-4383-979a-b02393c89a0b",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/3ec77366-dbe7-48e7-9f2f-cbd957734336/index_hero/1765267888342-e2jr5guyv1.jpg",
-                    "sortOrder": 12,
+                    "sortOrder": 10,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
@@ -2463,7 +2457,7 @@
                   {
                     "id": "ed1ab8ab-d824-49a6-b731-79b9819ac2c1",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/3ec77366-dbe7-48e7-9f2f-cbd957734336/index_hero/1765268360079-v08w7614jb.jpeg",
-                    "sortOrder": 13,
+                    "sortOrder": 11,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
@@ -2471,7 +2465,7 @@
                   {
                     "id": "4256476d-d5c5-4134-b2c9-23ffc0f50909",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/3ec77366-dbe7-48e7-9f2f-cbd957734336/index_hero/1765267888342-r26twhot55.jpg",
-                    "sortOrder": 14,
+                    "sortOrder": 12,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
@@ -2479,15 +2473,7 @@
                   {
                     "id": "9bedde5b-209d-41e4-8971-0d24f89bbee5",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/3ec77366-dbe7-48e7-9f2f-cbd957734336/index_hero/1765267888342-7uvqp74rd3n.jpeg",
-                    "sortOrder": 15,
-                    "description": "",
-                    "isSelected": true,
-                    "blockId": null
-                  },
-                  {
-                    "id": "d70aa3d5-bbca-410c-9d0f-ed096dc55be2",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/3ec77366-dbe7-48e7-9f2f-cbd957734336/index_hero/1765267888342-wgq53nwgdin.jpeg",
-                    "sortOrder": 16,
+                    "sortOrder": 13,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
@@ -2495,7 +2481,7 @@
                   {
                     "id": "f6c1534b-36b0-4830-80fe-7f1752ec6519",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/3ec77366-dbe7-48e7-9f2f-cbd957734336/index_hero/1765268360090-oii1r6v2uy.jpeg",
-                    "sortOrder": 17,
+                    "sortOrder": 14,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
@@ -2509,8 +2495,8 @@
                 "title": "",
                 "images": [
                   {
-                    "id": "96a5f112-5448-48c2-b01c-59190e361b92",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/3ec77366-dbe7-48e7-9f2f-cbd957734336/index_closing/1765268713072-qej6kqgyyue.jpeg",
+                    "id": "9e40a961-0b95-4df2-bd22-fb7f34a778cc",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/3ec77366-dbe7-48e7-9f2f-cbd957734336/index_closing/1780302973485-pxkobylohb.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true,
@@ -2521,24 +2507,92 @@
                 "mediaType": "image"
               },
               "essence": {
-                "title": "",
-                "images": [ ],
+                "title": "가평의 자연 속에서 반려견과 함께 편안한 휴식을 즐길 수 있는 멍스테이 애견펜션 독채 객실과 야외수영장, 개별 바베큐 공간으로 더욱 프라이빗한 시간을 선사합니다. 애견용품이 구비되어 있어 반려견 동반 여행도 부담 없이 이용 가능합니다. 맑은 공기와 푸른 자연 속에서 산책과 힐링을 함께 즐겨보세요. 사람과 반려견 모두 만족할 수 있는 가평 애견동반 숙소입니다. 🐾🌿✨",
+                "images": [
+                  {
+                    "id": "a31a9607-04f0-4d89-b532-5b2a4f5073cf",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/3ec77366-dbe7-48e7-9f2f-cbd957734336/index_essence/1780303340161-8jj77z5gaw.jpeg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "3d71c22c-cdb9-4b5c-8d0c-5e6782a60e30",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/3ec77366-dbe7-48e7-9f2f-cbd957734336/index_essence/1780303340135-n4hp3u3k8s.jpeg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
                 "videos": [ ],
                 "mediaType": "image",
-                "description": ""
+                "description": "Stay Close To Nature, Stay Close To Your Dog."
               },
               "gallery": {
-                "title": "",
-                "images": [ ],
+                "title": "Preview",
+                "images": [
+                  {
+                    "id": "5f46419f-9e98-4500-a43b-928654e690ad",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/3ec77366-dbe7-48e7-9f2f-cbd957734336/index_gallery/1780302919048-ycs71edn5i.jpeg",
+                    "sortOrder": 0,
+                    "description": "반려견운동장",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "35cda846-43d9-497b-a85f-94362944faff",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/3ec77366-dbe7-48e7-9f2f-cbd957734336/index_gallery/1780302919141-bqi2hvcbwt.jpg",
+                    "sortOrder": 1,
+                    "description": "불멍",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "2c4249dd-b43b-450f-9190-496e6fd829c0",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/3ec77366-dbe7-48e7-9f2f-cbd957734336/index_gallery/1780302919048-57749hu4jc.jpeg",
+                    "sortOrder": 2,
+                    "description": "야외수영장",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "d9a6c307-fc7b-4a49-a131-a865b338838f",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/3ec77366-dbe7-48e7-9f2f-cbd957734336/index_gallery/1780302919199-09aixfhouj.jpg",
+                    "sortOrder": 3,
+                    "description": "개별바베큐",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "f36cbad9-eeb4-4c53-a068-f37fa572ce68",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/3ec77366-dbe7-48e7-9f2f-cbd957734336/index_gallery/1780302919140-y4z0ghp6kg.jpg",
+                    "sortOrder": 4,
+                    "description": "객실내부",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
                 "videos": [ ],
                 "mediaType": "image",
                 "description": ""
               },
               "signature": {
                 "title": "",
-                "images": [ ],
+                "images": [
+                  {
+                    "id": "5477d213-38fe-4df4-a7dc-eb26e6170050",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/3ec77366-dbe7-48e7-9f2f-cbd957734336/index_signature/1780303082562-gk153k6oft.jpeg",
+                    "sortOrder": 0,
+                    "description": "반려견과 함께 자유롭게 뛰어노는 넓은 애견운동장 🐾",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
                 "videos": [ ],
-                "mediaType": "image"
+                "mediaType": "image",
+                "description": ""
               }
             }
           ]
@@ -2644,41 +2698,17 @@
                 "title": "",
                 "images": [
                   {
-                    "id": "c88c2a02-7b2b-44ea-89b4-a0ae4e5c2fbc",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/3ec77366-dbe7-48e7-9f2f-cbd957734336/reservation_hero/1765258866929-3s7vbv63sb4.jpeg",
+                    "id": "a3960b0d-9f23-4d34-a27d-1f794ae1e68c",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/3ec77366-dbe7-48e7-9f2f-cbd957734336/reservation_hero/1765270729595-ainbxaov54.jpg",
                     "sortOrder": 0,
                     "description": "",
-                    "isSelected": false,
+                    "isSelected": true,
                     "blockId": null
                   },
                   {
                     "id": "2d0f554f-f817-4093-9b77-67918898effb",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/3ec77366-dbe7-48e7-9f2f-cbd957734336/reservation_hero/1765258704852-e574iegb9r.jpeg",
                     "sortOrder": 1,
-                    "description": "",
-                    "isSelected": false,
-                    "blockId": null
-                  },
-                  {
-                    "id": "ff3fb1b3-da41-4e4a-be13-a002029d95a7",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/3ec77366-dbe7-48e7-9f2f-cbd957734336/reservation_hero/1765258866929-9fgke2yxrdr.jpeg",
-                    "sortOrder": 2,
-                    "description": "",
-                    "isSelected": false,
-                    "blockId": null
-                  },
-                  {
-                    "id": "30416b11-a250-4e63-a494-dd3fa4f8d387",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/3ec77366-dbe7-48e7-9f2f-cbd957734336/reservation_hero/1765258866929-c4edichs5xg.jpg",
-                    "sortOrder": 3,
-                    "description": "",
-                    "isSelected": false,
-                    "blockId": null
-                  },
-                  {
-                    "id": "a3960b0d-9f23-4d34-a27d-1f794ae1e68c",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/3ec77366-dbe7-48e7-9f2f-cbd957734336/reservation_hero/1765270729595-ainbxaov54.jpg",
-                    "sortOrder": 4,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
@@ -2692,12 +2722,42 @@
               }
             }
           ]
+        },
+        "nearbyAttractions": {
+          "sections": [ ]
+        },
+        "layoutMap": {
+          "sections": [ ]
         }
       },
       "popup": {
         "popups": [ ]
       },
+      "theme": {
+        "font": {
+          "koMain": {
+            "cdn": null,
+            "key": "imhyemin",
+            "woff2": "https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2106@1.1/IM_Hyemin-Regular.woff2",
+            "family": "ImHyeMin"
+          },
+          "koSub": {
+            "cdn": "https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.min.css",
+            "key": "pretendard",
+            "woff2": null,
+            "family": "Pretendard"
+          },
+          "enMain": {
+            "cdn": "https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@0,300..700;1,300..700&display=swap",
+            "key": "cormorant",
+            "woff2": null,
+            "family": "Cormorant"
+          }
+        },
+        "color": null
+      },
       "property": {
+        "name": "가평 멍스테이펜션",
         "images": [
           {
             "id": "8a8dbb3a-eab6-4389-bffa-d84ccfd8a9fd",
@@ -2808,7 +2868,6 @@
             "category": "property_exterior"
           }
         ],
-        "name": "가평 멍스테이펜션",
         "nameEn": "Gapyeong Meongstay Pension"
       },
       "roomtypes": [
@@ -4337,31 +4396,7 @@
             }
           ]
         }
-      ],
-      "theme": {
-        "font": {
-          "koSub": {
-            "cdn": "https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.min.css",
-            "key": "pretendard",
-            "woff2": null,
-            "family": "Pretendard"
-          },
-          "enMain": {
-            "cdn": "https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@0,300..700;1,300..700&display=swap",
-            "key": "cormorant",
-            "woff2": null,
-            "family": "Cormorant"
-          },
-          "koMain": {
-            "cdn": null,
-            "key": "cafe24gowoonbam",
-            "woff2": "https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_twelve@1.1/Cafe24Oneprettynight.woff",
-            "family": "Cafe24Gowoonbam"
-          }
-        },
-        "color": null
-      }
-    },
-    "id": "3ec77366-dbe7-48e7-9f2f-cbd957734336"
+      ]
+    }
   }
 }
